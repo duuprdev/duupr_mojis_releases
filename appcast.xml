@@ -18,7 +18,7 @@
             <enclosure url="https://duuprdev.github.io/duupr_mojis_releases/DuuprMojis.dmg"
                        sparkle:version="1"
                        sparkle:shortVersionString="0.1.0"
-                       sparkle:edSignature="REPLACE_WITH_SPARKLE_SIGNATURE_FROM_BUILD_MACOS_SH" length="0" type="application/octet-stream" />
+                       sparkle:edSignature="l2MGJEaI4KP0DFlpMBKtOray9bU5tEwGygVEnkgcRInln371rk/6i9LXpT/VzRehZpLNdCIZIhCRX6ojXLIqBw==" length="27146475" />
         </item>
     </channel>
 </rss>
